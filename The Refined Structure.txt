@@ -1,0 +1,36 @@
+The Refined Structure
+Navbar: (Logo, Services, About, Blog, CTA Button)
+
+Hero: (High-impact Typography + Benefit-driven Headline)
+
+Brand Line: (Grayscale client logos or key industry stats)
+
+Services: (3-column grid with minimalist icons)
+
+The Process (New): (Simple 3-step "How we work" section)
+
+About Us: (Your mission and a touch of your "doodly" personality)
+
+Testimonials: (Clean cards with client headshots or logos)
+
+Safety Net: (A bold section with a final CTA and a simple Contact form)
+
+Footer: (Sitemap, Social links, and Copyright)
+
+
+
+Update: 
+
+ENHANCING CLOUD SHIFT WEBSITE:
+
+1. Delete the Electric Vehicle web page
+2. Redesign the Home page graphic
+3. Change content on the Services page and include Products and Services, along with a more focused set of services
+4. Improve the overall design of the website
+5. Change some of the photos in the About Us section on the Home page and update with new photos of selected current staff and collaborators
+6. Revise the Our Services section as mentioned in Item 3, above
+7. Add Iron Fort and the UMF to the Product Innovation section of the Services page and update the services items below the Product Innovation section
+8. Update the Join Our Team section
+9. Update the Blogs page be deleting two blogs and perhaps uploading a few of our LinkedIn articles
+10. Make the website more dynamic and fresher with more engaging graphics
+11. Add another web page if necessary and configure the capability for website traffic to be captured by the digital marketing platform and/or Zoho CRM.
